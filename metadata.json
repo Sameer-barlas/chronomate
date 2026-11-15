@@ -1,0 +1,6 @@
+{
+  "name": "ChronoMate OTB Chess Clock",
+  "description": "Zero-latency offline over-the-board chess timer with Norman-principled one-tap presets, asymmetric custom controls, and drift-free millisecond precision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
